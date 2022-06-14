@@ -6,7 +6,7 @@ const Dog = () => {
     <li>
       <h3>A Soon to be Named Dog</h3>
       <p>Favorite Foods: </p>
-      <button>add chip</button>
+      <button>add food</button>
     </li>
   );
 };
